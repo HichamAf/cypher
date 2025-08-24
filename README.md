@@ -1,4 +1,4 @@
-# Cypher Tool
+# Simple Cypher Tool
 
 What does the tool do?
 This tool allows you to **encrypt** and **decrypt** messages.  
